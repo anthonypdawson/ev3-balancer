@@ -1,0 +1,18 @@
+{
+  "name": "ev3-balance",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "ev3dev-lang": "^1.0.0-beta.0"
+  },
+  "devDependencies": {},
+  "author": "anthonypdawson@gmail.com",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
